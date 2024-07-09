@@ -1,0 +1,304 @@
+[{
+        "id": 1,
+        "title": "Delicious Egg Benedict",
+        "section": "breakfast",
+        "image": "http://forkify-api.herokuapp.com/images/86122387ab.jpg",
+        "description": "A classic breakfast dish with poached eggs, ham, and hollandaise sauce on an English muffin.",
+        "cookingTime": 30,
+        "servings": 2,
+        "special": false,
+        "calories": 500,
+        "ingredients": [{
+                "name": "Eggs",
+                "quantity": "4",
+                "expiresAt": "01/07/2024"
+            },
+            {
+                "name": "Ham",
+                "quantity": "100 g",
+                "expiresAt": "25/06/2024"
+            },
+            {
+                "name": "Butter",
+                "quantity": "50 g",
+                "expiresAt": "05/07/2024"
+            },
+            {
+                "name": "English Muffins",
+                "quantity": "2",
+                "expiresAt": "01/07/2024"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Silky Tomato Soup",
+        "section": "lunch",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A smooth and creamy tomato soup perfect for a light and refreshing lunch.",
+        "cookingTime": 20,
+        "servings": 4,
+        "special": true,
+        "calories": 450,
+        "ingredients": [{
+                "name": "Tomatoes",
+                "quantity": "6",
+                "expiresAt": "22/06/2024"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "expiresAt": "23/06/2024"
+            },
+            {
+                "name": "Garlic",
+                "quantity": "2",
+                "expiresAt": "02/07/2024"
+            },
+            {
+                "name": "Vegetable Broth",
+                "quantity": "500 g",
+                "expiresAt": "05/07/2024"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Crispy Chicken Parm",
+        "section": "dinner",
+        "image": "http://forkify-api.herokuapp.com/images/4024225151_5f477f16caabf9.jpg",
+        "description": "A hearty chicken parmesan dish with crispy breaded chicken and melted cheese.",
+        "cookingTime": 45,
+        "servings": 4,
+        "special": false,
+        "calories": 520,
+        "ingredients": [{
+                "name": "Chicken Breast",
+                "quantity": "4",
+                "expiresAt": "27/06/2024"
+            },
+            {
+                "name": "Breadcrumbs",
+                "quantity": "100 g",
+                "expiresAt": "15/07/2024"
+            },
+            {
+                "name": "Parmesan Cheese",
+                "quantity": "50 g",
+                "expiresAt": "10/07/2024"
+            },
+            {
+                "name": "Marinara Sauce",
+                "quantity": "200 ml",
+                "expiresAt": "12/07/2024"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Savory Spinach and Feta Omelette",
+        "section": "breakfast",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A delightful omelette filled with fresh spinach and tangy feta cheese, perfect for a nutritious start to your day.",
+        "cookingTime": 15,
+        "servings": 2,
+        "calories": 200,
+        "ingredients": [{
+                "name": "Eggs",
+                "quantity": "4",
+                "expiresAt": "01/07/2024"
+            },
+            {
+                "name": "Spinach",
+                "quantity": "100 g",
+                "expiresAt": "28/06/2024"
+            },
+            {
+                "name": "Feta Cheese",
+                "quantity": "50 ml",
+                "expiresAt": "10/07/2024"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": "135 ml",
+                "expiresAt": "30/09/2024"
+            }
+        ],
+        "special": false
+    },
+    {
+        "id": 5,
+        "title": "Hearty Lentil and Vegetable Soup",
+        "section": "lunch",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A nourishing soup made with lentils and a mix of vegetables, perfect for a comforting and healthy meal.",
+        "cookingTime": 30,
+        "servings": 4,
+        "calories": 380,
+        "ingredients": [{
+                "name": "Lentils",
+                "quantity": "200 g",
+                "expiresAt": "01/08/2024"
+            },
+            {
+                "name": "Carrots",
+                "quantity": "2",
+                "expiresAt": "25/06/2024"
+            },
+            {
+                "name": "Celery",
+                "quantity": "2",
+                "expiresAt": "28/06/2024"
+            },
+            {
+                "name": "Vegetable Broth",
+                "quantity": "500 ml",
+                "expiresAt": "05/07/2024"
+            }
+        ],
+        "special": true
+    },
+    {
+        "id": 6,
+        "title": "Zesty Lemon Garlic Shrimp Pasta",
+        "section": "dinner",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A vibrant pasta dish featuring succulent shrimp, fresh lemon, and garlic, ideal for a flavorful dinner.",
+        "cookingTime": 25,
+        "servings": 4,
+        "calories": 460,
+        "ingredients": [{
+                "name": "Shrimp",
+                "quantity": "400 g",
+                "expiresAt": "26/06/2024"
+            },
+            {
+                "name": "Spaghetti",
+                "quantity": "300 g",
+                "expiresAt": "20/08/2024"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "expiresAt": "30/06/2024"
+            },
+            {
+                "name": "Garlic",
+                "quantity": "3",
+                "expiresAt": "02/07/2024"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": "210 ml",
+                "expiresAt": "30/09/2024"
+            }
+        ],
+        "special": false
+    },
+    {
+        "id": 7,
+        "title": "Blueberry Banana Smoothie",
+        "section": "breakfast",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A refreshing smoothie packed with the natural sweetness of blueberries and bananas, perfect for a quick and healthy breakfast.",
+        "cookingTime": 5,
+        "servings": 2,
+        "calories": 210,
+        "ingredients": [{
+                "name": "Blueberries",
+                "quantity": "100 g",
+                "expiresAt": "01/07/2024"
+            },
+            {
+                "name": "Bananas",
+                "quantity": "2",
+                "expiresAt": "25/06/2024"
+            },
+            {
+                "name": "Greek Yogurt",
+                "quantity": "200 g",
+                "expiresAt": "05/07/2024"
+            },
+            {
+                "name": "Honey",
+                "quantity": "140 g",
+                "expiresAt": "30/09/2024"
+            }
+        ],
+        "special": false
+    },
+    {
+        "id": 8,
+        "title": "Quinoa and Black Bean Salad",
+        "section": "lunch",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A protein-packed salad with quinoa, black beans, and a medley of fresh vegetables, ideal for a light and nutritious lunch.",
+        "cookingTime": 20,
+        "servings": 4,
+        "calories": 200,
+        "ingredients": [{
+                "name": "Quinoa",
+                "quantity": "200 g",
+                "expiresAt": "01/08/2024"
+            },
+            {
+                "name": "Black Beans",
+                "quantity": "400 g",
+                "expiresAt": "10/07/2024"
+            },
+            {
+                "name": "Bell Peppers",
+                "quantity": "2",
+                "expiresAt": "25/06/2024"
+            },
+            {
+                "name": "Red Onion",
+                "quantity": "1",
+                "expiresAt": "23/06/2024"
+            },
+            {
+                "name": "Lime",
+                "quantity": "1",
+                "expiresAt": "30/06/2024"
+            }
+        ],
+        "special": true
+    },
+    {
+        "id": 9,
+        "title": "Beef and Broccoli Stir-Fry",
+        "section": "dinner",
+        "image": "https://forkify-api.herokuapp.com/images/roastedtomatochipotlesoupa300x2001eb89855.jpg",
+        "description": "A quick and delicious stir-fry with tender beef and fresh broccoli, served over a bed of rice.",
+        "cookingTime": 20,
+        "servings": 4,
+        "calories": 430,
+        "ingredients": [{
+                "name": "Beef Sirloin",
+                "quantity": "400 g",
+                "expiresAt": "27/06/2024"
+            },
+            {
+                "name": "Broccoli",
+                "quantity": "120 g",
+                "expiresAt": "25/06/2024"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": "30 ml",
+                "expiresAt": "30/09/2024"
+            },
+            {
+                "name": "Garlic",
+                "quantity": "2",
+                "expiresAt": "02/07/2024"
+            },
+            {
+                "name": "Rice",
+                "quantity": "300 g",
+                "expiresAt": "20/08/2024"
+            }
+        ],
+        "special": false
+    }
+]
